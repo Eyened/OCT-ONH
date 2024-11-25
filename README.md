@@ -20,3 +20,21 @@ The model was trained on the following devices and acquisition modes:
 A manuscript is currently in preparation. The full code and model weights will be available here upon publication. Please watch this space.
 
 Are you interested in using this code for your research immediately? We are happy to collaborate. Please contact k.vangarderen \[at\] erasmusmc.nl
+
+## Copyright notice
+
+EyeNED OCT-ONH segmentation and feature extraction
+Copyright (C) 2024  Erasmus MC
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published
+by the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License
+along with this program.  If not, see <https://www.gnu.org/licenses/>.
