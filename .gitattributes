@@ -1,0 +1,2 @@
+*.dcm filter=lfs diff=lfs merge=lfs -text
+*.binary.gz filter=lfs diff=lfs merge=lfs -text

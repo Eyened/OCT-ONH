@@ -1,4 +1,4 @@
-# EyeNED: vendor-neutral analysis of optic nerve head OCT
+# EyeNED OCT-ONH: vendor-neutral analysis of optic nerve head OCT
 
 ![EyeNED logo](resources/eyened-logo.png "EyeNED logo")
 
@@ -13,13 +13,15 @@ The model was trained on the following devices and acquisition modes:
 - Heidelberg Spectralis -- circular and radial scans
 - Topcon 3D OCT 2000 -- 6x6mm raster (128x512)
 
-
-
 ## Using our model
 
-A manuscript is currently in preparation. The full code and model weights will be available here upon publication. Please watch this space.
+The model weights are stored at our [HuggingFace repository](https://huggingface.co/Eyened/OCT-ONH/tree/main).
 
-Are you interested in using this code for your research immediately? We are happy to collaborate. Please contact k.vangarderen \[at\] erasmusmc.nl
+If you use this code or our model for your research, please cite our manuscript:
+
+S.J. Driessen et al. CNN-based device-agnostic feature extraction from ONH OCT scans, Translational Vision Science & Technology (Accepted, 2024) -- details will be added upon publication
+
+Please feel free to post an issue if you run into them. Are you interested in the details or do you want to collaborate further? Please contact k.vangarderen \[at\] erasmusmc.nl
 
 ## Copyright notice
 
