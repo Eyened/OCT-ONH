@@ -19,7 +19,7 @@ The model weights are stored at our [HuggingFace repository](https://huggingface
 
 If you use this code or our model for your research, please cite our manuscript:
 
-S.J. Driessen et al. CNN-based device-agnostic feature extraction from ONH OCT scans, Translational Vision Science & Technology (Accepted, 2024) -- details will be added upon publication
+Driessen SJ, van Garderen KA, De Jesus DA, Brea LS, Barbosa-Breda J, Liefers B, Lemij HG, Nelson-Ayifah D, Ampong A, Bonnemaijer PWM, Thiadens AAHJ, Klaver CCW. CNN-Based Device-Agnostic Feature Extraction From ONH OCT Scans. Transl Vis Sci Technol. 2024 Dec 2;13(12):5. doi: 10.1167/tvst.13.12.5. PMID: 39625435; PMCID: PMC11620008.
 
 Please feel free to post an issue if you run into them. Are you interested in the details or do you want to collaborate further? Please contact k.vangarderen \[at\] erasmusmc.nl
 
